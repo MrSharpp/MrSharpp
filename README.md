@@ -5,8 +5,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About 🤠
 
--  **Learning :** Android Developer
--  **Languages :** C#, Javascript, PHP, Kotlin
+-  **Learning :** Game Devlopment
+-  **Languages :** C#, Javascript, PHP, python
 -  **Hobbies :** Playing PC Games
 -  **Organization :** Dexk Labs
 
