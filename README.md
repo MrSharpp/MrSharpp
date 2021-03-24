@@ -8,7 +8,6 @@
 -  **Learning :** Android Developer
 -  **Languages :** C#, Javascript, PHP, Kotlin
 -  **Hobbies :** Playing PC Games
--  **Fact :** My Fact is all fact are wrong at some point!
 -  **Organization :** Dexk Labs
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
