@@ -6,7 +6,7 @@
 ### About 🤠
 
 -  **Learning :** Game Devlopment
--  **Languages :** C#, Javascript, PHP, python
+-  **Languages :** C#, Javascript, PHP, python, C++
 -  **Hobbies :** Playing PC Games
 -  **Organization :** Dexk Labs
 
