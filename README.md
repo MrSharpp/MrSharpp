@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About 🤠
 
--  **Languages :** C#, Javascript, PHP, python, C++
+-  **Languages :** C#, Typescript, PHP, python, C++
 -  **Hobbies :** Playing PC Games
 -  **Organization :** Sofyrus
 
