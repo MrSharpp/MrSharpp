@@ -6,6 +6,5 @@
 
 -  **Languages :** Javascript, Typescript, C#
 -  **Hobbies :** Playing PC Games
--  **Organization :** Sofyrus
 
 ⭐️ From [Amir Alam](https://github.com/mrsharpp)
